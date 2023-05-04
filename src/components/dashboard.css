@@ -1,0 +1,50 @@
+.main_container{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    
+}
+.company_logo{
+    display: flex;
+    justify-content: start;
+    margin-bottom: 5%;
+}
+.heading{
+    display: flex;
+    justify-content: start;
+    color: white;
+}
+.sub_headig{
+    display: flex;
+    gap: 30%;
+    /* border: 1px solid rgb(192, 189, 189); */
+    background-color: #2C3034;
+    color: white;
+}
+.sub_heading{
+    display: flex;
+    gap: 28%;
+    /* border: 1px solid rgb(192, 189, 189); */
+    background-color: #212529;
+    color: white;
+    align-items: center;
+
+}
+.status_button{
+    background-color: #DC3545;
+    color: white;
+    width: 9%;
+    height: 38px;
+    border-radius: 6px;
+    border: none;
+}
+.sub-title2{
+    color: white;
+    display: flex;
+    justify-content: start;
+}
+.sub-title3{
+    color: rgb(205, 249, 154);
+    display: flex;
+    justify-content: start;
+}
